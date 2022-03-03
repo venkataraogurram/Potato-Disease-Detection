@@ -71,7 +71,7 @@ a:hover,  a:active {
 </style>
 
 <div class="footer">
-<p align="center"> <a href="https://www.linkedin.com/in/ronylpatil/">Developed with ❤ by ronil</a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/venkata-rao-gurram-448b44150/">Develped by Venkatarao Gurram</a></p>
 </div>
         """
 
